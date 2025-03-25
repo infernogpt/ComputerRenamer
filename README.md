@@ -3,7 +3,9 @@
 ## Overview
 
 The Inferno Computer Renamer is a script designed to help you easily rename your computer. The script is simple and user-friendly, ensuring that you can rename your machine with minimal effort.
-- If Windows Prompts You Will A Blue Screen Saying "Windows Protected Your PC" Dont Worry, Its Because the Application Is Not Signed. It Is Completely Safe. 
+- If Windows Prompts You Will A Blue Screen Saying "Windows Protected Your PC" Don't Worry, It's Because the Application Is Not Signed. It Is Completely Safe.
+- NOTE: You May Need To Run The File As Administrator For It To Work.
+- This File Is Completely Open Sourced To Avoid Any Accusations Of Malicious Files Being Installed.
 ## Features
 
 - Prompts the user for a new computer name.
